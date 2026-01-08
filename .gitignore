@@ -1,0 +1,7 @@
+bin/
+obj/
+*.db
+*.sqlite
+appsettings.*.json
+.vs/
+*.user
